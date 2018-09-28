@@ -7,3 +7,6 @@
 5- you need to run below two commands to create database.
    =>    dotnet ef migrations add InitialCommit.
    =>    dotnet ef database update
+6- go to sql server and see your database has created.
+7- Finally run this project by running this below commands.
+   =>    dotnet watch run
